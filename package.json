@@ -7,6 +7,8 @@
     "lint": "prettier --check \"src/**/*.{js,jsx,ts,tsx}\""
   },
   "dependencies": {
+    "antd": "^4.10.3",
+    "form-render": "^0.9.8",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
